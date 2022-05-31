@@ -6,3 +6,5 @@ import numpy as n
 # lam = (1/(2*Nr))*(n.log(((10**(0.05*Ap))+1)/(((10**(0.05*Ap))-1))))
 # print(lam)
 
+# Hola
+
