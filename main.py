@@ -1,4 +1,3 @@
-from traceback import print_tb
 import numpy as n
 
 ############################## CONFIGURACION ######################################

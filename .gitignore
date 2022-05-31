@@ -1,1 +1,2 @@
-test-symbolic.py
+test-symbolic.py/
+__pycache__/
